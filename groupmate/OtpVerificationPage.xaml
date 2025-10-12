@@ -5,21 +5,28 @@
              BackgroundColor="#F5E9FF">
 
     <ScrollView>
-        <VerticalStackLayout Padding="30,60" Spacing="25">
+        <VerticalStackLayout 
+            
+            Padding="30,60" 
+            Spacing="25">
 
-            <ImageButton Source="back.png"
+            <ImageButton x:Name="BackButton"
+                         Source="back.png"
                          HeightRequest="24"
                          WidthRequest="24"
                          BackgroundColor="Transparent"
                          HorizontalOptions="Start"
                          Clicked="BackButton_Clicked" />
-            <Label Text="Verification code sent"
+
+            <Label x:Name="Title"
+                   Text="Verification code sent"
                    FontSize="26" 
                    FontAttributes="Bold" 
                    TextColor="#3D0066"
                    HorizontalOptions="Center" />
 
-            <Label Text="Please enter the verification code"
+            <Label x:Name="Subtitle"
+                   Text="Please enter the verification code"
                    FontSize="14" 
                    TextColor="#5A5A5A"
                    HorizontalOptions="Center" 
@@ -56,10 +63,13 @@
 
             <HorizontalStackLayout 
                 HorizontalOptions="Center">
-                <Label Text="Didn’t receive? " 
+                
+                <Label x:Name="NoCode"
+                       Text="Didn’t receive? " 
                        FontSize="14" 
                        TextColor="#6A0DAD"/>
-                <Label Text="Resend code" 
+                <Label x:Name="Resend"
+                       Text="Resend code" 
                        FontSize="14" 
                        FontAttributes="Bold"
                        TextColor="#7F00FF">
@@ -70,11 +80,20 @@
                 </Label>
             </HorizontalStackLayout>
 
-            <Border StrokeShape="RoundRectangle 25" StrokeThickness="0">
+            <Border 
+                
+                StrokeShape="RoundRectangle 25" 
+                StrokeThickness="0">
+                
                 <Border.Background>
-                    <LinearGradientBrush EndPoint="1,0">
-                        <GradientStop Color="#7F00FF" Offset="0.0"/>
-                        <GradientStop Color="#E100FF" Offset="1.0"/>
+                    <LinearGradientBrush 
+                        EndPoint="1,0">
+                        <GradientStop 
+                            Color="#7F00FF" 
+                            Offset="0.0"/>
+                        <GradientStop 
+                            Color="#E100FF" 
+                            Offset="1.0"/>
                     </LinearGradientBrush>
                 </Border.Background>
                 <Button 
@@ -83,8 +102,7 @@
                         TextColor="White"
                         FontAttributes="Bold"
                         HeightRequest="50"
-                        CornerRadius="25"
-                        />
+                        CornerRadius="25"/>
             </Border>
 
         </VerticalStackLayout>

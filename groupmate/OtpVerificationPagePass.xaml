@@ -7,13 +7,16 @@
     <ScrollView>
         <VerticalStackLayout Padding="30,60" Spacing="25">
 
-            <ImageButton Source="back.png"
+            <ImageButton 
+                     Source="back.png"
                      HeightRequest="24"
                      WidthRequest="24"
                      BackgroundColor="Transparent"
                      HorizontalOptions="Start"
                      Clicked="BackButton_Clicked" />
-            <Label Text="Verification code sent"
+            
+            <Label 
+                Text="Verification code sent"
                FontSize="26" 
                FontAttributes="Bold" 
                TextColor="#3D0066"
@@ -36,14 +39,18 @@
                 StrokeShape="RoundRectangle 25"
                 BackgroundColor="White" 
                 Padding="10">
+                
                 <Grid 
                 ColumnDefinitions="Auto,*" 
                 VerticalOptions="Center">
+                    
                     <Image 
                     Source="key.png" 
                     HeightRequest="20" 
                     VerticalOptions="Center"/>
-                    <Entry x:Name="OtpEntry" 
+                    
+                    <Entry 
+                       x:Name="OtpEntry" 
                        Grid.Column="1" 
                        Placeholder="Enter code"
                        PlaceholderColor="#999" 
@@ -55,28 +62,46 @@
             </Border>
 
             <HorizontalStackLayout 
+                
             HorizontalOptions="Center">
-                <Label Text="Didn’t receive? " 
+                
+                <Label 
+                    Text="Didn’t receive? " 
                    FontSize="14" 
                    TextColor="#6A0DAD"/>
+                
                 <Label Text="Resend code" 
                    FontSize="14" 
                    FontAttributes="Bold"
                    TextColor="#7F00FF">
+                    
                     <Label.GestureRecognizers>
                         <TapGestureRecognizer 
+                            
                         Tapped="Resend_Tapped" />
+                        
                     </Label.GestureRecognizers>
                 </Label>
             </HorizontalStackLayout>
 
-            <Border StrokeShape="RoundRectangle 25" StrokeThickness="0">
+            <Border 
+                
+                StrokeShape="RoundRectangle 25" 
+                StrokeThickness="0">
+                
                 <Border.Background>
                     <LinearGradientBrush EndPoint="1,0">
-                        <GradientStop Color="#7F00FF" Offset="0.0"/>
-                        <GradientStop Color="#E100FF" Offset="1.0"/>
+                        <GradientStop 
+                            Color="#7F00FF" 
+                            Offset="0.0"/>
+                        
+                        <GradientStop 
+                            Color="#E100FF" 
+                            Offset="1.0"
+                                      />
                     </LinearGradientBrush>
                 </Border.Background>
+                
                 <Button 
                     Text="VERIFY"
                     BackgroundColor="Transparent"

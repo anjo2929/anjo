@@ -26140,11 +26140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Joan\\source\\repos\\anjo2929\\GroupMate\\groupmate\\groupmate.csproj",
+      "projectUniqueName": "C:\\Users\\Joan\\source\\repos\\anjo\\groupmate\\groupmate.csproj",
       "projectName": "groupmate",
-      "projectPath": "C:\\Users\\Joan\\source\\repos\\anjo2929\\GroupMate\\groupmate\\groupmate.csproj",
+      "projectPath": "C:\\Users\\Joan\\source\\repos\\anjo\\groupmate\\groupmate.csproj",
       "packagesPath": "C:\\Users\\Joan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Joan\\source\\repos\\anjo2929\\GroupMate\\groupmate\\obj\\",
+      "outputPath": "C:\\Users\\Joan\\source\\repos\\anjo\\groupmate\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [

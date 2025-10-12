@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("groupmate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+f738bdc7129b4639b1cb4a236cbe865280ab8e2b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+c3a5b153315811e0c153f220f5d470b05a724208")]
 [assembly: System.Reflection.AssemblyProductAttribute("groupmate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("groupmate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

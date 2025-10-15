@@ -12,85 +12,85 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = groupmate
-build_property.ProjectDir = C:\Users\Joan\source\repos\anjo\groupmate\
+build_property.ProjectDir = C:\Users\jctej\Source\Repos\anjo\groupmate\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Joan/source/repos/anjo/groupmate/App.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/AppShell.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/ForgotPasswordPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/ForgotPasswordPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.ForgotPasswordPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ForgotPasswordPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ForgotPasswordPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/LoginPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/LoginPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.LoginPage.xaml
 build_metadata.AdditionalFiles.TargetPath = LoginPage.xaml
 build_metadata.AdditionalFiles.RelativePath = LoginPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/MainPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/NewPasswordPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/NewPasswordPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.NewPasswordPage.xaml
 build_metadata.AdditionalFiles.TargetPath = NewPasswordPage.xaml
 build_metadata.AdditionalFiles.RelativePath = NewPasswordPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/Notification.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/Notification.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.Notification.xaml
 build_metadata.AdditionalFiles.TargetPath = Notification.xaml
 build_metadata.AdditionalFiles.RelativePath = Notification.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/OtpVerificationPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/OtpVerificationPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.OtpVerificationPage.xaml
 build_metadata.AdditionalFiles.TargetPath = OtpVerificationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = OtpVerificationPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/OtpVerificationPagePass.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/OtpVerificationPagePass.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.OtpVerificationPagePass.xaml
 build_metadata.AdditionalFiles.TargetPath = OtpVerificationPagePass.xaml
 build_metadata.AdditionalFiles.RelativePath = OtpVerificationPagePass.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/Resources/Styles/Colors.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/Resources/Styles/Styles.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/SignupPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/SignupPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.SignupPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SignupPage.xaml
 build_metadata.AdditionalFiles.RelativePath = SignupPage.xaml
 
-[C:/Users/Joan/source/repos/anjo/groupmate/SplashPage.xaml]
+[C:/Users/jctej/Source/Repos/anjo/groupmate/SplashPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = groupmate.SplashPage.xaml
 build_metadata.AdditionalFiles.TargetPath = SplashPage.xaml

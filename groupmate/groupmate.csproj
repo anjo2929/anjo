@@ -83,6 +83,9 @@
 	  <MauiXaml Update="NewPasswordPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="Notification.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="OtpVerificationPagePass.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
